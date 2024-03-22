@@ -2,7 +2,9 @@
 
 🚀 Welcome to my Python Playground! 🐍
 
-![Python Logo](python-logo.png)
+<p align="center">
+  <img src="python-logo.png" alt="Python Logo" width="400"/>
+</p>
 
 Hey there! 👋 I'm thrilled to share my journey through the "Mastering Python" course from Elzero Academy right here on GitHub!
 
