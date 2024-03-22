@@ -2,7 +2,7 @@
 
 🚀 Welcome to my Python Playground! 🐍
 
-![Python Logo](https://raw.githubusercontent.com/amrreffat7/Mastering-Python-Assignments/main/python-logo.png)
+![Python Logo](python-logo.png)
 
 Hey there! 👋 I'm thrilled to share my journey through the "Mastering Python" course from Elzero Academy right here on GitHub!
 
